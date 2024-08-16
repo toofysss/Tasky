@@ -1,0 +1,10 @@
+1) Time Of Work : 26H
+
+2) Api Mistakes : 
+A) Dont Have Link To Display Image After I Upload It 
+B) Dont Have Figma To How Display Image After Upload IT
+C) On Upload Image You Don't Give me Image Size To Upload So I Cannot Know What Size You Want To Compress The Image Size
+
+3) My Mistakes : 
+A) Cannot Update Status Of Task 
+
